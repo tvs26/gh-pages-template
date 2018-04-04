@@ -9,3 +9,5 @@ navigation:
     url: setup
   - title: pza
     url: pza
+  - title: Isoniazid
+    url: isoniazid
